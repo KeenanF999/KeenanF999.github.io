@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Novice Web Developer looking to pursue my creative programming dreams.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am available to all fun and dynamic work projects.  Though I am a newbie...I look forward to the challenge.
 
 ### Contact me
 
