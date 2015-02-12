@@ -4,11 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Novice Web Developer looking to pursue my creative programming dreams.
+Novice Web Developer looking to pursue my creative programming dreams. I am available to all fun and dynamic work projects.  Though I am a newbie...I look forward to the challenge.
 
-### More Information
+### Projects
 
-I am available to all fun and dynamic work projects.  Though I am a newbie...I look forward to the challenge.
+Postit (Reddit Clone) *In Progress*
+
+
+Blackjack Webapp
+
 
 ### Contact me
 
