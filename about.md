@@ -9,9 +9,10 @@ Novice Web Developer looking to pursue my creative programming dreams. I am avai
 ### Projects
 
 [Postit](https://github.com/KeenanF999/postit-temp) (Reddit Clone) *In Progress*
+I am still finishing the project; but, you can look over the code.
 
-
-[Blackjack Webapp](https://github.com/KeenanF999/Blackjack-webapp)
+[Blackjack Webapp](https://frozen-beyond-9404.herokuapp.com/new_player)
+Here is the link to the [GitHub](https://github.com/KeenanF999/Blackjack-webapp) code. 
 
 
 ### Contact me
