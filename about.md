@@ -9,10 +9,10 @@ Novice Web Developer looking to pursue my creative programming dreams. I am avai
 ### Projects
 
 Postit (Reddit Clone) *In Progress*
-https://github.com/KeenanF999/postit-temp
+{{https://github.com/KeenanF999/postit-temp}}
 
 Blackjack Webapp
-https://github.com/KeenanF999/Blackjack-webapp
+{{https://github.com/KeenanF999/Blackjack-webapp}}
 
 ### Contact me
 
