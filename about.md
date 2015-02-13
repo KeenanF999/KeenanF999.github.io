@@ -9,13 +9,16 @@ Novice Web Developer looking to pursue my creative programming dreams. I am avai
 ### Projects
 
 [Postit](https://github.com/KeenanF999/postit-temp) (Reddit Clone) *In Progress*
-
-I am still finishing the project; but, you can look over the code.
+<p>I am still finishing the project; but, you can look over the code.</p>
 
 [Blackjack Webapp](https://frozen-beyond-9404.herokuapp.com/new_player)
+<p>Here is the link to the [GitHub](https://github.com/KeenanF999/Blackjack-webapp) code.</p>
 
-Here is the link to the [GitHub](https://github.com/KeenanF999/Blackjack-webapp) code.
+[3 Games](https://github.com/KeenanF999/TL_Week2-OOP) *(Blackjack, Tick-Tack-Toe and Rock-Paper-Scissors)*
+<p>As part of my course work with Tealeaf Academy I re-did the original pure Ruby code.  However this time utilizing Object Oriented Programing principles</p>
 
+[Blackjack](https://github.com/KeenanF999/TL_Week1-Blackjack)*(pure Ruby)*
+<p>You can view the code; but, you will need to have [Ruby](http://rubyinstaller.org/) installed to run the code.</p>
 
 ### Contact me
 
